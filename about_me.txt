@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "As an intern at Futerense, I am gaining valuable experience and expertise in Git and github, enhancing and developing my skills in version control and collaborative software development."
+=======
+"As an intern at Futerense, I am gaining valuable experience and expertise in Git, enhancing my skills in version control and collaborative software development."
+>>>>>>> cb5145f030174bc332ce230c1cd9c30725f99325
