@@ -1,1 +1,1 @@
-"As an intern at Futerense, I am gaining valuable experience and expertise in Git and github, enhancing my skills in version control and collaborative software development."
+"As an intern at Futerense, I am gaining valuable experience and expertise in Git and github, enhancing and developing my skills in version control and collaborative software development."
